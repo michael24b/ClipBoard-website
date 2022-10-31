@@ -10,7 +10,7 @@ import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <Fragment>
-      <Hero />;
+      <Hero />
       <Snippets />
       <Features />
       <Access />
