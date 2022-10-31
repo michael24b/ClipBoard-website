@@ -3,7 +3,7 @@ import About from "./About";
 const Hero = () => {
   return (
     <section id="hero">
-      <div className="section-container mb-20 md:mb-40 pt-16">
+      <div className="section-container mb-40 pt-16">
         <img src={logo} alt="" className="mx-auto my-16" />
 
         <About
